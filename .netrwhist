@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+<<<<<<< HEAD
+let g:netrw_dirhistcnt =2
+let g:netrw_dirhist_2='/home/sailboat/.config/cef_user_data'
+let g:netrw_dirhist_1='/home/sailboat/.config/cef_user_data/Dictionaries'
+=======
+let g:netrw_dirhistcnt =1
+let g:netrw_dirhist_1='/home/sailboat/.config/i3'
+>>>>>>> 6ac6c5e7a5d39dce47cfc08b0adcfc748f2a0f0e
